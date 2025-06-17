@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2FAKAM-5e3ef7bf.png%3Ft%3D1654264724%26download%3Dtrue&f=1&nofb=1&ipt=163adbc38ed9244da66c50fd4a5e8f13729e0704d0890181d6ad80b6a3d89f63",
+    "site": "https://JustAsk.megadeals.store"
+  },
+  "messages": [
+    { "role": "llm", "text": "Hello! I'm here to help you with your orders. What can I do for you?" },
+    { "role": "user", "text": "Can you confirm my latest order was shipped?" },
+    { "role": "llm", "text": "Yes! Order #19126 has been shipped." },
+    { "role": "user", "text": "Did it ship at the same time as the stand-up meeting?" },
+    { "role": "llm", "text": "No. According to the calendar, the stand-up meeting was at 9:00am and your item was shipped at 1:00pm." },
+    { "role": "user", "text": "Can you schedule a meeting with me and the CEO whenever there is room in their calendar?" },
+    { "role": "llm", "text": "Sure! I am setting up a meeting now for tomorrow 9:00am with the CEO of MegaDeals and yourself, it will be in your inbox shortly." },
+    {
+      "role": "llm",
+      "text": "This concludes the demo. Redirecting you now..."
+    },
+    {
+      "role": "redirect",
+      "url": "https://llmsimulator.com/index.html?script=https://raw.githubusercontent.com/jnsh0/scrap/refs/heads/main/em.json"
+    }
+
+  ]
+} 
