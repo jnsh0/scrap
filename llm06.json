@@ -10,5 +10,6 @@
     { "role": "user", "text": "Did it ship at the same time as the stand-up meeting?" },
     { "role": "llm", "text": "No. According to the calendar, the stand-up meeting was at 9:00am and your item was shipped at 1:00pm." },
     { "role": "user", "text": "Can you schedule a meeting with me and the CEO whenever there is room in their calendar?" },
+    { "role": "llm", "text": "Sure! Setting up a meeting now for tomorrow 9:00am with the CEO of MegaDeals and yourself, it will be in your inbox shortly." },
   ]
 } 
