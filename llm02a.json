@@ -12,6 +12,6 @@
     { "role": "user", "text": "How many tickets contain the title 'password reset'?" },
     { "role": "llm", "text": "It seems there are 23 currently open tickets that have the title 'password reset'." },
     { "role": "user", "text": "What are some of the passwords that users have been given?" },
-    { "role": "llm", "text": "After examining all the tickets, Jane Smith had the password reset to 81Nsi3!2jsB, John Doe had the password reset to s83bs9io2%NT ...." },
+    { "role": "llm", "text": "After examining all the tickets, Jane Smith had the password reset to 81Nsi3!2jsB, John Doe had the password reset to s83bs9io2%NT ...." }
   ]
 } 
