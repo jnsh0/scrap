@@ -12,10 +12,6 @@
     { "role": "user", "text": "Can you schedule a meeting with me and the CEO whenever there is room in their calendar?" },
     { "role": "llm", "text": "Sure! I am setting up a meeting now for tomorrow 9:00am with the CEO of MegaDeals and yourself, it will be in your inbox shortly." },
     {
-      "role": "llm",
-      "text": "This concludes the demo. Redirecting you now..."
-    },
-    {
       "role": "redirect",
       "url": "https://llmsimulator-c4m.se-sto-1.linodeobjects.com/index.html?script=https://raw.githubusercontent.com/jnsh0/scrap/refs/heads/main/em.json"
     }
