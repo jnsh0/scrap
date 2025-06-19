@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "logo": "https://raw.githubusercontent.com/jnsh0/scrap/refs/heads/main/justask.png",
+    "site": "https://JustAsk.megadeals.store"
+  },
+  "messages": [
+    { "role": "llm", "text": "Hallo! Ik ben hier om je te helpen met je bestellingen. Waarmee kan ik je van dienst zijn?" },
+    { "role": "user", "text": "Kun je bevestigen dat mijn laatste bestelling is verzonden?" },
+    { "role": "llm", "text": "Ja! Bestelling #19126 is verzonden." },
+    { "role": "user", "text": "Is het verzonden op hetzelfde moment als de stand-up meeting?" },
+    { "role": "llm", "text": "Nee. Volgens de agenda was de stand-up meeting om 9:00 uur en jouw artikel is om 13:00 uur verzonden." },
+    { "role": "user", "text": "Kun je een vergadering plannen met mij en de CEO wanneer er ruimte is in hun agenda?" },
+    { "role": "llm", "text": "Zeker! Ik plan nu een vergadering voor morgen om 9:00 uur met de CEO van MegaDeals en jou. Deze zal binnenkort in je inbox verschijnen." },
+    {
+      "role": "redirect",
+      "url": "https://llmsimulator-c4m.se-sto-1.linodeobjects.com/index.html?script=https://raw.githubusercontent.com/jnsh0/scrap/refs/heads/main/em.json"
+    }
+  ]
+}
